@@ -35,4 +35,10 @@ public class Delimiters {
     public String getOpenDel() {
         return openDel;
     }
+    public void setCloseDel(String closeDel) {
+        this.closeDel = closeDel;
+    }
+    public void setOpenDel(String openDel) {
+        this.openDel = openDel;
+    }
 }
